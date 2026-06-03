@@ -2,7 +2,7 @@
 
 📖 **Description**  
 
-This skillup.online project focuses on integrating clincial and claims information. It uses Excel, MySQL and Python.
+This skillup.online project focuses on integrating clincial and claims information using Excel, MySQL and Python.
 
 🔍 **Dataset Overview**  
 
