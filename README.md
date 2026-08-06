@@ -10,6 +10,7 @@ This skillup.online project focuses on integrating clinical and claims informati
 
 Rows: 101  
 Columns: 9  
+
 Fields and Descriptions:
 * Claim ID - unique identifier for a claim generated after a claim is submitted and is used to track, manage and verify claims for the patient over time
 * Patient ID - unique identifier assigned to a patient by a healthcare facility linking to their specific medical records, treatments and services received
@@ -25,6 +26,7 @@ Fields and Descriptions:
 
 Rows: 202  
 Columns: 9  
+
 Fields and Descriptions:
 * Patient ID - unique identifier assigned to a patient by a healthcare facility linking to their specific medical records, treatments and services rendered
 * Lab Test ID - internal LB variable identifier
