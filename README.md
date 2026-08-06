@@ -20,7 +20,7 @@ Fields and Descriptions:
 * Payer - the insurer the patient used when paying for the medication
 * Clinic ID - unique identifier for the clinic used by the patient
 * Charge Amount - the amount charged for the medication or services rendered to the patient
-* Paid Amount - the amount the patient paid for the medication or services rendered to the patient
+* Paid Amount - the amount the payer paid for the medication or services rendered to the patient
 
 *Clinical (Lab Results) Table*
 
