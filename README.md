@@ -2,7 +2,7 @@
 
 📖 **Description**  
 
-This skillup.online project focuses on integrating clinical and claims information using Excel, MySQL and Python.
+This skillup.online project focuses on cleaning data, integrating clinical and claims information, and analyzing data. Python was used to clean data while Excel and MySQL were used to analyze payer and patient data for the purpose of identifying payers with the highest payment amount, the number of patients with high cholesterol, the number of patients who are female with type 2 diabetes and other helpful information.
 
 🔍 **Dataset Overview**  
 
